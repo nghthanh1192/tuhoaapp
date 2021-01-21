@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 21/01/2021 21:16
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.40.1
+WORDPRESS:	5.6
+PHP INFO:	7.4.9 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.9 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 11MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:47 | filtered:0 | create:47
+FILTERED: []
+SQL CREATED: 20210121_tuhoa_fb6c467d1b6e82113602_20210121211135_database.sql
+SQL FILE SIZE: 1.46MB (1530583)
+SQL FILE TIME: 2021-01-21 21:16:49
+SQL RUNTIME: 0.40 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress/tuhoaapp
+ARCHIVE FILE: 20210121_tuhoa_fb6c467d1b6e82113602_20210121211135_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	190.62MB
+STATS:	Dirs 1,628 | Files 8,703
+SQL ADDED: 20210121_tuhoa_fb6c467d1b6e82113602_20210121211135_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10331
+    [filename] => /Applications/MAMP/htdocs/wordpress/tuhoaapp/wp-content/backups-dup-lite/tmp/20210121_tuhoa_fb6c467d1b6e82113602_20210121211135_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 10330
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 83.69MB
+ARCHIVE RUNTIME: 42.63 sec.
+MEMORY STACK: 15MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /Applications/MAMP/htdocs/wordpress/tuhoaapp/wp-content/backups-dup-lite/tmp/20210121_tuhoa_fb6c467d1b6e82113602_20210121211135_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.46MB
+INSTALLER FILE: 61.28KB
+ARCHIVE FILE: 85.23MB 
+EXPECTED FILE/DIRECTORY COUNT: 10,331
+ACTUAL FILE/DIRECTORY COUNT: 10,330
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 49.06 sec.
+PEAK PHP MEMORY USED: 17MB
+DONE PROCESSING => 20210121_tuhoa 21/01/2021 21:17
+
